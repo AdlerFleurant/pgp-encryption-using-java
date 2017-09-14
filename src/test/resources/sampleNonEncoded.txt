@@ -1,0 +1,113 @@
+I am a sample file!!!
+
+The following channels use the JDBC Data Provider “jdbc/DEEP_DOF” which point to mbc09datamining sql server:
+-	DEEP_DOF_DOB_Licenses_Receive_Channel reading from DS.DOF.DEEP.DOB.LICENSES.RECVQ in DOF_QM
+-	DEEP_DOF_HPD_HMC_Violations_Receive_Channel reading from DS.DOF.DEEP.HPD.HMC.VIO.RECVQ in DOF_QM
+-	DEEP_DOF_DCP_Zoning_Receive_Channel reading from DS.DOF.DEEP.DCP.ZONING.RECVQ in DOF_QM
+-	DEEP_DOF_DOB_Jobs_Receive_Channel reading from DS.DOF.DEEP.DOB.JOBS.RECVQ in DOF_QM
+-	DEEP_DOF_DCP_BinBbl_Receive_Channel reading from DS.DOF.DEEP.DCP.BINBBL.RECVQ in DOF_QM
+-	DEEP_DOF_DOB_CertOfOcc_Receive_Channel reading from DS.DOF.DEEP.DOB.COFO.RECVQ in DOF_QM
+-	DEEP_DOF_HPD_BldgReg_Receive_Channel reading from DS.DOF.DEEP.HPD.BLDGREG.RECVQ in DOF_QM
+-	DEEP_DOF_DEP_CATS_Receive_Channel reading from DS.DOF.DEEP.DEP.CATS.LIC.RECVQ in DOF_QM
+-	DEEP_DOF_ECB_VIOSUM_Receive_Channel reading from in DS.DOF.DEEP.ECB.VIOSUM.RECVQ DOF_QM
+
+
+
+The following channels use the JDBC Data Provider “jdbc/DEEP_DOF” which point to mbc09datamining sql server:
+-	DEEP_DOF_DOB_Licenses_Receive_Channel reading from DS.DOF.DEEP.DOB.LICENSES.RECVQ in DOF_QM
+-	DEEP_DOF_HPD_HMC_Violations_Receive_Channel reading from DS.DOF.DEEP.HPD.HMC.VIO.RECVQ in DOF_QM
+-	DEEP_DOF_DCP_Zoning_Receive_Channel reading from DS.DOF.DEEP.DCP.ZONING.RECVQ in DOF_QM
+-	DEEP_DOF_DOB_Jobs_Receive_Channel reading from DS.DOF.DEEP.DOB.JOBS.RECVQ in DOF_QM
+-	DEEP_DOF_DCP_BinBbl_Receive_Channel reading from DS.DOF.DEEP.DCP.BINBBL.RECVQ in DOF_QM
+-	DEEP_DOF_DOB_CertOfOcc_Receive_Channel reading from DS.DOF.DEEP.DOB.COFO.RECVQ in DOF_QM
+-	DEEP_DOF_HPD_BldgReg_Receive_Channel reading from DS.DOF.DEEP.HPD.BLDGREG.RECVQ in DOF_QM
+-	DEEP_DOF_DEP_CATS_Receive_Channel reading from DS.DOF.DEEP.DEP.CATS.LIC.RECVQ in DOF_QM
+-	DEEP_DOF_ECB_VIOSUM_Receive_Channel reading from in DS.DOF.DEEP.ECB.VIOSUM.RECVQ DOF_QM
+
+The following channels use the JDBC Data Provider “jdbc/DEEP_DOF” which point to mbc09datamining sql server:
+-	DEEP_DOF_DOB_Licenses_Receive_Channel reading from DS.DOF.DEEP.DOB.LICENSES.RECVQ in DOF_QM
+-	DEEP_DOF_HPD_HMC_Violations_Receive_Channel reading from DS.DOF.DEEP.HPD.HMC.VIO.RECVQ in DOF_QM
+-	DEEP_DOF_DCP_Zoning_Receive_Channel reading from DS.DOF.DEEP.DCP.ZONING.RECVQ in DOF_QM
+-	DEEP_DOF_DOB_Jobs_Receive_Channel reading from DS.DOF.DEEP.DOB.JOBS.RECVQ in DOF_QM
+-	DEEP_DOF_DCP_BinBbl_Receive_Channel reading from DS.DOF.DEEP.DCP.BINBBL.RECVQ in DOF_QM
+-	DEEP_DOF_DOB_CertOfOcc_Receive_Channel reading from DS.DOF.DEEP.DOB.COFO.RECVQ in DOF_QM
+-	DEEP_DOF_HPD_BldgReg_Receive_Channel reading from DS.DOF.DEEP.HPD.BLDGREG.RECVQ in DOF_QM
+-	DEEP_DOF_DEP_CATS_Receive_Channel reading from DS.DOF.DEEP.DEP.CATS.LIC.RECVQ in DOF_QM
+-	DEEP_DOF_ECB_VIOSUM_Receive_Channel reading from in DS.DOF.DEEP.ECB.VIOSUM.RECVQ DOF_QM
+
+
+
+The following channels use the JDBC Data Provider “jdbc/DEEP_DOF” which point to mbc09datamining sql server:
+-	DEEP_DOF_DOB_Licenses_Receive_Channel reading from DS.DOF.DEEP.DOB.LICENSES.RECVQ in DOF_QM
+-	DEEP_DOF_HPD_HMC_Violations_Receive_Channel reading from DS.DOF.DEEP.HPD.HMC.VIO.RECVQ in DOF_QM
+-	DEEP_DOF_DCP_Zoning_Receive_Channel reading from DS.DOF.DEEP.DCP.ZONING.RECVQ in DOF_QM
+-	DEEP_DOF_DOB_Jobs_Receive_Channel reading from DS.DOF.DEEP.DOB.JOBS.RECVQ in DOF_QM
+-	DEEP_DOF_DCP_BinBbl_Receive_Channel reading from DS.DOF.DEEP.DCP.BINBBL.RECVQ in DOF_QM
+-	DEEP_DOF_DOB_CertOfOcc_Receive_Channel reading from DS.DOF.DEEP.DOB.COFO.RECVQ in DOF_QM
+-	DEEP_DOF_HPD_BldgReg_Receive_Channel reading from DS.DOF.DEEP.HPD.BLDGREG.RECVQ in DOF_QM
+-	DEEP_DOF_DEP_CATS_Receive_Channel reading from DS.DOF.DEEP.DEP.CATS.LIC.RECVQ in DOF_QM
+-	DEEP_DOF_ECB_VIOSUM_Receive_Channel reading from in DS.DOF.DEEP.ECB.VIOSUM.RECVQ DOF_QM
+
+
+
+The following channels use the JDBC Data Provider “jdbc/DEEP_DOF” which point to mbc09datamining sql server:
+-	DEEP_DOF_DOB_Licenses_Receive_Channel reading from DS.DOF.DEEP.DOB.LICENSES.RECVQ in DOF_QM
+-	DEEP_DOF_HPD_HMC_Violations_Receive_Channel reading from DS.DOF.DEEP.HPD.HMC.VIO.RECVQ in DOF_QM
+-	DEEP_DOF_DCP_Zoning_Receive_Channel reading from DS.DOF.DEEP.DCP.ZONING.RECVQ in DOF_QM
+-	DEEP_DOF_DOB_Jobs_Receive_Channel reading from DS.DOF.DEEP.DOB.JOBS.RECVQ in DOF_QM
+-	DEEP_DOF_DCP_BinBbl_Receive_Channel reading from DS.DOF.DEEP.DCP.BINBBL.RECVQ in DOF_QM
+-	DEEP_DOF_DOB_CertOfOcc_Receive_Channel reading from DS.DOF.DEEP.DOB.COFO.RECVQ in DOF_QM
+-	DEEP_DOF_HPD_BldgReg_Receive_Channel reading from DS.DOF.DEEP.HPD.BLDGREG.RECVQ in DOF_QM
+-	DEEP_DOF_DEP_CATS_Receive_Channel reading from DS.DOF.DEEP.DEP.CATS.LIC.RECVQ in DOF_QM
+-	DEEP_DOF_ECB_VIOSUM_Receive_Channel reading from in DS.DOF.DEEP.ECB.VIOSUM.RECVQ DOF_QM
+
+
+
+The following channels use the JDBC Data Provider “jdbc/DEEP_DOF” which point to mbc09datamining sql server:
+-	DEEP_DOF_DOB_Licenses_Receive_Channel reading from DS.DOF.DEEP.DOB.LICENSES.RECVQ in DOF_QM
+-	DEEP_DOF_HPD_HMC_Violations_Receive_Channel reading from DS.DOF.DEEP.HPD.HMC.VIO.RECVQ in DOF_QM
+-	DEEP_DOF_DCP_Zoning_Receive_Channel reading from DS.DOF.DEEP.DCP.ZONING.RECVQ in DOF_QM
+-	DEEP_DOF_DOB_Jobs_Receive_Channel reading from DS.DOF.DEEP.DOB.JOBS.RECVQ in DOF_QM
+-	DEEP_DOF_DCP_BinBbl_Receive_Channel reading from DS.DOF.DEEP.DCP.BINBBL.RECVQ in DOF_QM
+-	DEEP_DOF_DOB_CertOfOcc_Receive_Channel reading from DS.DOF.DEEP.DOB.COFO.RECVQ in DOF_QM
+-	DEEP_DOF_HPD_BldgReg_Receive_Channel reading from DS.DOF.DEEP.HPD.BLDGREG.RECVQ in DOF_QM
+-	DEEP_DOF_DEP_CATS_Receive_Channel reading from DS.DOF.DEEP.DEP.CATS.LIC.RECVQ in DOF_QM
+-	DEEP_DOF_ECB_VIOSUM_Receive_Channel reading from in DS.DOF.DEEP.ECB.VIOSUM.RECVQ DOF_QM
+
+
+
+The following channels use the JDBC Data Provider “jdbc/DEEP_DOF” which point to mbc09datamining sql server:
+-	DEEP_DOF_DOB_Licenses_Receive_Channel reading from DS.DOF.DEEP.DOB.LICENSES.RECVQ in DOF_QM
+-	DEEP_DOF_HPD_HMC_Violations_Receive_Channel reading from DS.DOF.DEEP.HPD.HMC.VIO.RECVQ in DOF_QM
+-	DEEP_DOF_DCP_Zoning_Receive_Channel reading from DS.DOF.DEEP.DCP.ZONING.RECVQ in DOF_QM
+-	DEEP_DOF_DOB_Jobs_Receive_Channel reading from DS.DOF.DEEP.DOB.JOBS.RECVQ in DOF_QM
+-	DEEP_DOF_DCP_BinBbl_Receive_Channel reading from DS.DOF.DEEP.DCP.BINBBL.RECVQ in DOF_QM
+-	DEEP_DOF_DOB_CertOfOcc_Receive_Channel reading from DS.DOF.DEEP.DOB.COFO.RECVQ in DOF_QM
+-	DEEP_DOF_HPD_BldgReg_Receive_Channel reading from DS.DOF.DEEP.HPD.BLDGREG.RECVQ in DOF_QM
+-	DEEP_DOF_DEP_CATS_Receive_Channel reading from DS.DOF.DEEP.DEP.CATS.LIC.RECVQ in DOF_QM
+-	DEEP_DOF_ECB_VIOSUM_Receive_Channel reading from in DS.DOF.DEEP.ECB.VIOSUM.RECVQ DOF_QM
+
+
+The following channels use the JDBC Data Provider “jdbc/DEEP_DOF” which point to mbc09datamining sql server:
+-	DEEP_DOF_DOB_Licenses_Receive_Channel reading from DS.DOF.DEEP.DOB.LICENSES.RECVQ in DOF_QM
+-	DEEP_DOF_HPD_HMC_Violations_Receive_Channel reading from DS.DOF.DEEP.HPD.HMC.VIO.RECVQ in DOF_QM
+-	DEEP_DOF_DCP_Zoning_Receive_Channel reading from DS.DOF.DEEP.DCP.ZONING.RECVQ in DOF_QM
+-	DEEP_DOF_DOB_Jobs_Receive_Channel reading from DS.DOF.DEEP.DOB.JOBS.RECVQ in DOF_QM
+-	DEEP_DOF_DCP_BinBbl_Receive_Channel reading from DS.DOF.DEEP.DCP.BINBBL.RECVQ in DOF_QM
+-	DEEP_DOF_DOB_CertOfOcc_Receive_Channel reading from DS.DOF.DEEP.DOB.COFO.RECVQ in DOF_QM
+-	DEEP_DOF_HPD_BldgReg_Receive_Channel reading from DS.DOF.DEEP.HPD.BLDGREG.RECVQ in DOF_QM
+-	DEEP_DOF_DEP_CATS_Receive_Channel reading from DS.DOF.DEEP.DEP.CATS.LIC.RECVQ in DOF_QM
+-	DEEP_DOF_ECB_VIOSUM_Receive_Channel reading from in DS.DOF.DEEP.ECB.VIOSUM.RECVQ DOF_QM
+
+
+
+The following channels use the JDBC Data Provider “jdbc/DEEP_DOF” which point to mbc09datamining sql server:
+-	DEEP_DOF_DOB_Licenses_Receive_Channel reading from DS.DOF.DEEP.DOB.LICENSES.RECVQ in DOF_QM
+-	DEEP_DOF_HPD_HMC_Violations_Receive_Channel reading from DS.DOF.DEEP.HPD.HMC.VIO.RECVQ in DOF_QM
+-	DEEP_DOF_DCP_Zoning_Receive_Channel reading from DS.DOF.DEEP.DCP.ZONING.RECVQ in DOF_QM
+-	DEEP_DOF_DOB_Jobs_Receive_Channel reading from DS.DOF.DEEP.DOB.JOBS.RECVQ in DOF_QM
+-	DEEP_DOF_DCP_BinBbl_Receive_Channel reading from DS.DOF.DEEP.DCP.BINBBL.RECVQ in DOF_QM
+-	DEEP_DOF_DOB_CertOfOcc_Receive_Channel reading from DS.DOF.DEEP.DOB.COFO.RECVQ in DOF_QM
+-	DEEP_DOF_HPD_BldgReg_Receive_Channel reading from DS.DOF.DEEP.HPD.BLDGREG.RECVQ in DOF_QM
+-	DEEP_DOF_DEP_CATS_Receive_Channel reading from DS.DOF.DEEP.DEP.CATS.LIC.RECVQ in DOF_QM
+-	DEEP_DOF_ECB_VIOSUM_Receive_Channel reading from in DS.DOF.DEEP.ECB.VIOSUM.RECVQ DOF_QM
